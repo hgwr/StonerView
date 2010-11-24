@@ -1,0 +1,17 @@
+*~
+tmp
+tmp/*
+# xcode noise
+StonerView/build/*
+StonerView/._build
+*.pbxuser
+*.mode1v3
+._*
+# old skool
+.svn
+# osx noise
+.DS_Store
+profile
+sv_src.dvi
+sv_src.tex
+*.bak
