@@ -18,6 +18,7 @@
 		17C9A468129C790500F5D29C /* Icon-512.png in Resources */ = {isa = PBXBuildFile; fileRef = 17C9A463129C790500F5D29C /* Icon-512.png */; };
 		17C9A469129C790500F5D29C /* Icon.png in Resources */ = {isa = PBXBuildFile; fileRef = 17C9A464129C790500F5D29C /* Icon.png */; };
 		17D710FE129B809500E6FF5A /* StonerViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 17D710FD129B809500E6FF5A /* StonerViewController.m */; };
+		17F729B5129CCB0100282BC8 /* Icon-57.png in Resources */ = {isa = PBXBuildFile; fileRef = 17F729B4129CCB0100282BC8 /* Icon-57.png */; };
 		1D3623260D0F684500981E51 /* StonerViewAppDelegate.m in Sources */ = {isa = PBXBuildFile; fileRef = 1D3623250D0F684500981E51 /* StonerViewAppDelegate.m */; };
 		1D60589B0D05DD56006BFB54 /* main.m in Sources */ = {isa = PBXBuildFile; fileRef = 29B97316FDCFA39411CA2CEA /* main.m */; };
 		1D60589F0D05DD5A006BFB54 /* Foundation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 1D30AB110D05D00D00671497 /* Foundation.framework */; };
@@ -45,6 +46,7 @@
 		17C9A464129C790500F5D29C /* Icon.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = Icon.png; sourceTree = "<group>"; };
 		17D710FC129B809500E6FF5A /* StonerViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = StonerViewController.h; sourceTree = "<group>"; };
 		17D710FD129B809500E6FF5A /* StonerViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = StonerViewController.m; sourceTree = "<group>"; };
+		17F729B4129CCB0100282BC8 /* Icon-57.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Icon-57.png"; sourceTree = "<group>"; };
 		1D30AB110D05D00D00671497 /* Foundation.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = Foundation.framework; path = System/Library/Frameworks/Foundation.framework; sourceTree = SDKROOT; };
 		1D3623240D0F684500981E51 /* StonerViewAppDelegate.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = StonerViewAppDelegate.h; sourceTree = "<group>"; };
 		1D3623250D0F684500981E51 /* StonerViewAppDelegate.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = StonerViewAppDelegate.m; sourceTree = "<group>"; };
@@ -126,6 +128,7 @@
 		29B97317FDCFA39411CA2CEA /* Resources */ = {
 			isa = PBXGroup;
 			children = (
+				17F729B4129CCB0100282BC8 /* Icon-57.png */,
 				17C9A460129C790500F5D29C /* Default-Landscape.png */,
 				17C9A461129C790500F5D29C /* Default-Portrait.png */,
 				17C9A462129C790500F5D29C /* Icon-72.png */,
@@ -201,6 +204,7 @@
 				17C9A467129C790500F5D29C /* Icon-72.png in Resources */,
 				17C9A468129C790500F5D29C /* Icon-512.png in Resources */,
 				17C9A469129C790500F5D29C /* Icon.png in Resources */,
+				17F729B5129CCB0100282BC8 /* Icon-57.png in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
